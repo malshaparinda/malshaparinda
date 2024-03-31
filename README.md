@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Network
 - 🌱 I’m currently learning progrmming languages , Aws cloud paltform and ccna for network
 - 💞️ I’m looking to collaborate on programmers for improve my knowledge
-- 📫 How to reach >> contact.malshaparinda@gmail.com
+- 📫 How to reach >> malsha.parinda2000@gmail.com
 
 <!---
 malshaparinda/malshaparinda is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
